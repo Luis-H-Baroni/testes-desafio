@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "reconhecimentoExists",
+        "transactionLabel": "A test reconhecimentoExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createReconhecimento",
+        "transactionLabel": "A test createReconhecimento transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readReconhecimento",
+        "transactionLabel": "A test readReconhecimento transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateReconhecimento",
+        "transactionLabel": "A test updateReconhecimento transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteReconhecimento",
+        "transactionLabel": "A test deleteReconhecimento transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

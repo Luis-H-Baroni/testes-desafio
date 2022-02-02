@@ -1,0 +1,9 @@
+{
+	"connection_file": "connection.json",
+	"appAdmin": "admin",
+	"appAdminSecret": "adminpw",
+	"orgMSPID": "Org1MSP",
+	"caName": "org1ca-api.127-0-0-1.nip.io:8083",
+	"userName": "user1",
+	"gatewayDiscovery": { "enabled": false }
+}
